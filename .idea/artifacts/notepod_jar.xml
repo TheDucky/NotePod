@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="notepod:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="notepod.jar">
+      <element id="module-output" name="notepod" />
+    </root>
+  </artifact>
+</component>
