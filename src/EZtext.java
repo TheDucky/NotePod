@@ -19,7 +19,7 @@ public class EZtext implements ActionListener {
     EZtext() throws IOException {
 
         Border border = BorderFactory.createLineBorder(Color.cyan, 5);
-        Image icon = Toolkit.getDefaultToolkit().getImage("C:\\Users\\KULDEEP\\IdeaProjects\\notepod\\TheIcon.png");
+        Image icon = Toolkit.getDefaultToolkit().getImage("C:\\Users\\__\\IdeaProjects\\notepod\\TheIcon.png");
 
         textArea = new JTextArea();
         textArea.setBorder(border);
